@@ -1,4 +1,4 @@
-# 🔑 Random-Password-Python
+# 🔑 Random-Password-Generator
 
 A customizable Python command-line application that generates secure random passwords based on specific user requirements for letters, numbers, and symbols.
 
